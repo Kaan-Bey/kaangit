@@ -1,2 +1,7 @@
-package PACKAGE_NAME;public class kaan {
+public class kaan {
+
+    public static void main(String[] args) {
+
+        System.out.println("Kaan github hesabına git.");
+    }
 }
